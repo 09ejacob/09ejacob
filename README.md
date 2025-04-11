@@ -25,6 +25,11 @@ I work at Solwr Robotics
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=09ejacob&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=09ejacob&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=09ejacob&theme=github_dark&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=09ejacob&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=09ejacob&theme=github_dark&hide_border=false" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09ejacob&theme=github_dark&hide_border=false&layout=compact" width="60%" />
+</div>
