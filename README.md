@@ -20,3 +20,19 @@ I work at Solwr Robotics
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=09ejacob&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=09ejacob&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=09ejacob&theme=default&hide_border=false&layout=compact)
+
+---
+
+## GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=09ejacob&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![Check out eliasgjacobsen's profile on stardev.io](https://stardev.io/developers/09ejacob/badge/languages/global.svg)](https://stardev.io/developers/09ejacob)
