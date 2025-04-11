@@ -1,6 +1,7 @@
 ## Hi, I am Elias Garseth Jacobsen
 
 I'm a final-year Computer Engineering student at NTNU in Ålesund, Norway.
+
 I work at Solwr Robotics
 
 ---
