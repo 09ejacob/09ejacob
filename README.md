@@ -34,5 +34,3 @@ I work at Solwr Robotics
 ## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=09ejacob&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-[![Check out eliasgjacobsen's profile on stardev.io](https://stardev.io/developers/09ejacob/badge/languages/global.svg)](https://stardev.io/developers/09ejacob)
