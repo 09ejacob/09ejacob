@@ -27,4 +27,4 @@ I work at Solwr Robotics
 
 ## GitHub Stats
 
-![09ejacob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=09ejacob&theme=vue-dark&hide_border=true)
+![09ejacob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=09ejacob&theme=react&hide_border=false)
