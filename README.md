@@ -22,6 +22,8 @@ I work at Solwr Robotics.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion360-d16f52?style=flat&logo=fusion360&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-4f4fe3?style=flat&logo=arduino&logoColor=white)
 
 ---
 
