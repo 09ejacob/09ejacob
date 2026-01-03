@@ -1,8 +1,6 @@
 ## Hi, I am Elias Garseth Jacobsen
 
-I am a Computer Engineer who study Mechatronics and Automation at NTNU in Ålesund, Norway.
-
-I work at Solwr Robotics.
+I am a Computer Engineer from Norway and I work at Solwr Robotics.
 
 ---
 
